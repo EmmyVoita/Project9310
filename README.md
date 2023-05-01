@@ -1,6 +1,7 @@
 # Project9310
 
-You will need everthing in the Project9Files in the same directory for the program to execute correctly. If anything is missing, then the program will likely throw an error or produce unexpected results.
+You will need everthing in the Project9Files in the same directory for the program to execute correctly. If anything is missing, then the program will likely throw an error or produce unexpected results. The movement controls are mentioned in the loom video.
+
 
 
 Make sure that you have assimp downloaded
